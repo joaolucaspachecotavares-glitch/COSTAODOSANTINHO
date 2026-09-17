@@ -1,2 +1,2 @@
 # COSTAODOSANTINHO
-Apresentação de
+Apresentação de um projeto luminotecnico 
